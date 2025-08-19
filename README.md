@@ -1,7 +1,7 @@
 ## URL Shortener App - Affordmed Test
 
-**Name:** Your Name
-**Roll Number:** Your Roll Number
+**Name:** Jakkam Jaswanth Kumar
+**Roll Number:** 22KD1A0563
 
 This is my submission for the frontend test. It's a URL shortener app built with React that saves all the data in the browser.
 
